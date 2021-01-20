@@ -1,2 +1,2 @@
 # hello-world
-First repo test.
+New python learner. Hope I can pass E-29
